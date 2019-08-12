@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "language": "fr",
+  "words": [
+  ],
+  "flagWords": [],
+  "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
+  "dictionaries": [
+      "fr-fr",
+      "en-gb",
+      "en_US",
+      "typescript",
+      "softwareterms",
+      "html",
+      "css"
+  ]
+}

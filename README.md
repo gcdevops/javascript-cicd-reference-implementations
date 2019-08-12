@@ -1,1 +1,1 @@
-# javascript-cicd-reference-implementations
+# JavaScript Continuous Integration/Continuous Delivery Reference Implementations
